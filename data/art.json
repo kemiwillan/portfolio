@@ -1,0 +1,85 @@
+{
+  "art": [
+    {
+      "id": 1,
+      "title": "Lunis",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 2,
+      "title": "Sammy Picone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 3,
+      "title": "John",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 4,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+
+    {
+      "id": 5,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 6,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 7,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 8,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 9,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 10,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 11,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 12,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 13,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 14,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 15,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    },
+    {
+      "id": 16,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam."
+    }
+  ]
+}

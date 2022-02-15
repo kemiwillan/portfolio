@@ -1,11 +1,16 @@
 import caseStudies from "../data/caseStudies.json"
 import { useState } from "react"
+import Head from "next/head"
 
 export default function Home() {
-    const [currentTab, setCurrentTab] = useState("home")
-
     return (
         <div>
+            <Head>
+                {" "}
+                <title>Kemi Mai</title>
+                <meta name="description" content="Art by Kemi Mai" />
+                <link rel="icon" href="/favicon.ico" />
+            </Head>
             <main>
                 <div className="flex items-center justify-center  h-screen">
                     <h1 className="text-5xl">

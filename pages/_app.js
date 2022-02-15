@@ -15,14 +15,14 @@ function MyApp({ Component, pageProps }) {
                     href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
                     rel="stylesheet"
                 />
-
-                <title>Kemi Mai - Art</title>
-                <meta name="description" content="Art by Kemi Mai" />
-                <link rel="icon" href="/favicon.ico" />
             </Head>
             <div className="flex justify-between p-4 sm:py-4 ">
-                <h3>Kemi Mai</h3>
-                <button>Mate</button>
+                <a href="/">
+                    <h3>Kemi Mai</h3>
+                </a>
+                <a href="/art">
+                    <h3>Art</h3>
+                </a>
             </div>
             <Component {...pageProps} />
         </div>

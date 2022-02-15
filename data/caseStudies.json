@@ -4,25 +4,29 @@
             "id": 1,
             "title": "Lunis",
             "description": "Co-founder, design and development agency.",
-            "image": "images/lunis.png"
+            "image": "images/lunis.png",
+            "path": "/lunis"
         },
         {
             "id": 2,
             "title": "Sammy Picone",
             "description": "Web app built for sharing instructional videos.",
-            "image": "images/sammy.png"
+            "image": "images/sammy.png",
+            "path": "/sammy"
         },
         {
             "id": 3,
             "title": "PlantPal",
             "description": "For plant lovers everywhere.",
-            "image": "/images/art-images/butterfly.png"
+            "image": "/images/plantpal.png",
+            "path": "/plantpal"
         },
         {
             "id": 4,
             "title": "Planr",
             "description": "Task management app case study.",
-            "image": "images/art-images/butterfly.png"
+            "image": "images/planr.png",
+            "path": "/planr"
         }
     ]
 }

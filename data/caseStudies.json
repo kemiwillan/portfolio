@@ -1,0 +1,28 @@
+{
+  "studies": [
+    {
+      "id": 1,
+      "title": "Lunis",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+      "image": "images/lunis.png"
+    },
+    {
+      "id": 2,
+      "title": "Sammy Picone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+      "image": "images/sammy.png"
+    },
+    {
+      "id": 3,
+      "title": "John",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+      "image": "/images/art-images/butterfly.png"
+    },
+    {
+      "id": 4,
+      "title": "Bob",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+      "image": "images/art-images/butterfly.png"
+    }
+  ]
+}

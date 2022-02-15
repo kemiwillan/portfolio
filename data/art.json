@@ -1,0 +1,76 @@
+{
+    "art": [
+        {
+            "id": 1,
+            "title": "Jayde",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/butterfly.png"
+        },
+        {
+            "id": 2,
+            "title": "Solaris",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/solaris.png"
+        },
+        {
+            "id": 3,
+            "title": "Iris",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/iris.png"
+        },
+        {
+            "id": 4,
+            "title": "Rise",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/rise.png"
+        },
+        {
+            "id": 5,
+            "title": "Salem",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/salem.png"
+        },
+        {
+            "id": 6,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/thisviciousgrace.jpg"
+        },
+        {
+            "id": 7,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/christina.jpg"
+        },
+        {
+            "id": 8,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/waterme.png"
+        },
+        {
+            "id": 9,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/zahara.png"
+        },
+        {
+            "id": 10,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/findingmyvoice.jpg"
+        },
+        {
+            "id": 11,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/steve.jpg"
+        },
+        {
+            "id": 12,
+            "title": "John",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
+            "image": "images/art-images/grow.png"
+        }
+    ]
+}

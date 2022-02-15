@@ -13,7 +13,7 @@ export default function Home() {
             </Head>
             <main>
                 <div className="flex items-center justify-center  h-screen">
-                    <h1 className="text-5xl">
+                    <h1 className="text-5xl px-4 text-center sm:text-left">
                         Donec accumsan, vitae, erat pharetra mollis ultrices.{" "}
                     </h1>
                 </div>

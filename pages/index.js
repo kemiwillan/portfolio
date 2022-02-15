@@ -1,6 +1,3 @@
-import Head from "next/head";
-import Image from "next/image";
-import lunisImage from "../public/images/sammy.png";
 import caseStudies from "../data/caseStudies.json";
 import { useState } from "react";
 
@@ -9,22 +6,6 @@ export default function Home() {
 
   return (
     <div>
-      <Head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="true"
-        />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
-        <title>Kemi Mai</title>
-        <meta name="description" content="Artist and designer" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <main>
         <div className="flex items-center justify-center border h-screen">
           <h1 className="text-5xl">
@@ -35,7 +16,8 @@ export default function Home() {
         <div className="px-8 max-w-[1250px] mx-auto">
           {caseStudies.studies.map((study, index) => (
             <div key="{study}" className="pb-16 ">
-              <Image src={lunisImage} />
+              {/* <Image src={require(study.image)} /> */}
+              <img src={study.image} alt={study.title} />
               <div className="py-16 flex">
                 <h3 className="text-4xl w-1/2 font-semibold">{study.title}</h3>
                 <div className="w-1/2">

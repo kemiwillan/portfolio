@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
                     rel="stylesheet"
                 />
             </Head>
-            <div className="flex justify-between p-4 sm:py-4 ">
+            <div className="flex justify-between py-4 sm:py-4 ">
                 <a href="/">
                     <h3 className="text-2xl">Kemi Mai</h3>
                 </a>
@@ -45,7 +45,7 @@ function MyApp({ Component, pageProps }) {
 
                     <a
                         href="/about"
-                        className={`px-4 ${
+                        className={`pl-4 ${
                             router.pathname == "/about"
                                 ? "font-bold underline"
                                 : ""

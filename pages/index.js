@@ -13,14 +13,14 @@ export default function Home() {
             </Head>
             <main>
                 <div className="flex items-center justify-center  h-screen">
-                    <h1 className="text-5xl">
+                    <h1 className="text-5xl px-4 text-center sm:text-left">
                         Donec accumsan, vitae, erat pharetra mollis ultrices.{" "}
                     </h1>
                 </div>
 
                 <div className="px-8 max-w-[1250px] mx-auto">
                     {caseStudies.studies.map((study, index) => (
-                        <div key="{study}" className="pb-16 ">
+                        <div key={study.id} className="pb-16 ">
                             <img src={study.image} alt={study.title} />
                             <div className="py-16 flex">
                                 <h3 className="text-4xl w-1/2 font-semibold">
@@ -29,9 +29,12 @@ export default function Home() {
                                 <div className="w-1/2">
                                     <div className="w-full flex pb-6 justify-between font-medium text-2xl">
                                         <span>Case study </span>
-                                        <button className="font-medium hover:text-gray-500">
+                                        <a
+                                            href={study.path}
+                                            className="font-medium hover:text-gray-500"
+                                        >
                                             Expand
-                                        </button>
+                                        </a>
                                     </div>
                                     <div>
                                         <p className="text-lg">

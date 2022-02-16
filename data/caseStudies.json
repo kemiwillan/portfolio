@@ -1,28 +1,32 @@
 {
-  "studies": [
-    {
-      "id": 1,
-      "title": "Lunis",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
-      "image": "images/lunis.png"
-    },
-    {
-      "id": 2,
-      "title": "Sammy Picone",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
-      "image": "images/sammy.png"
-    },
-    {
-      "id": 3,
-      "title": "John",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
-      "image": "/images/art-images/butterfly.png"
-    },
-    {
-      "id": 4,
-      "title": "Bob",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus sit aliquet platea ipsum pellentesque vel. Cursus ut viverra blandit fames placerat suspendisse vitae purus nam.",
-      "image": "images/art-images/butterfly.png"
-    }
-  ]
+    "studies": [
+        {
+            "id": 1,
+            "title": "Lunis",
+            "description": "Co-founder, design and development agency.",
+            "image": "images/lunis.png",
+            "path": "/lunis"
+        },
+        {
+            "id": 2,
+            "title": "Sammy Picone",
+            "description": "Web app built for sharing instructional videos.",
+            "image": "images/sammy.png",
+            "path": "/sammy"
+        },
+        {
+            "id": 3,
+            "title": "PlantPal",
+            "description": "For plant lovers everywhere.",
+            "image": "/images/plantpal.png",
+            "path": "/plantpal"
+        },
+        {
+            "id": 4,
+            "title": "Planr",
+            "description": "Task management app case study.",
+            "image": "images/planr.png",
+            "path": "/planr"
+        }
+    ]
 }

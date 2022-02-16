@@ -76,8 +76,9 @@ const ImageGallery = (props) => {
     return (
         <div className="flex flex-wrap justify-center md:justify-between">
             {props.images.map((image) => (
-                <div className="mb-[5px]" key={image.id}>
+                <div className="mb-[5px] overflow-hidden border" key={image.id}>
                     <div
+                        className="hover:scale-110 transition-all duration-700 cursor-pointer"
                         style={{
                             backgroundImage: "url(" + `${image.image}` + ")",
                             width: "300px",
